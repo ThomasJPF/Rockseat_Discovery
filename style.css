@@ -26,6 +26,7 @@
 
 body {
   background: var(--br-url) no-repeat top center/cover;
+  transition: background 0.5s;
 }
 
 body * {
